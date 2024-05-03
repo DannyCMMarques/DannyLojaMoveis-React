@@ -1,0 +1,110 @@
+.painel {
+    height: 100dvh;
+    width: 100%;
+    background-size: cover;
+    background-image: url(./../../assets/iamgens/capa.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    font-family: sans-serif;
+    color: #fff;
+
+}
+
+.slogan2 {
+    display: flex;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 130%;
+    text-transform: uppercase;
+    width: 575px;
+    animation: myAnim 0.5s ease 0s 1 normal forwards;
+
+}
+
+
+.slogan {
+    display: flex;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15%;
+    animation: myAnim 0.5s ease 0s 1 normal forwards;
+}
+
+@keyframes myAnim {
+    0% {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.orangeButton {
+    margin-top: 52px;
+    background: var(--laranja-bebe);
+    color: var(--branco);
+    border: transparent 1px solid;
+    width: 187px;
+    font-weight: bold;
+    transition: all ease 0.2s;
+    border-radius: 14px;
+    font-size: 19px;
+    height: 50px;
+}
+
+
+.orangeButton:hover {
+    background:var(--laranja-claro);
+    transition: all ease 0.2s;
+    color: var(--branco);
+    border: transparent;
+}
+
+.containerInformacao {
+    margin-left: 80px;
+}
+
+    @media (max-width: 1080px) {
+       
+    }
+
+  @media (max-width: 720px) {
+   
+  }
+  @media (max-width: 375px) {
+    .painel {
+        height:113vh;
+        width: 100%;
+    background-size: cover;
+    background-image: url(/src/assets/iamgens/capa.jpg);
+    background-repeat: no-repeat;
+    background-position: -170px -125px;
+    font-family: sans-serif;
+    color: #fff;
+    padding:0;
+    margin:0;
+    
+    }
+    .slogan2 {
+        display: flex;
+        font-size: 45px;
+        font-weight: bold;
+        margin: 0;
+        line-height: 130%;
+        text-transform: uppercase;
+        animation: myAnim 0.5s ease 0s 1 normal forwards;
+        width: 363px;
+    
+    }
+
+        .containerInformacao {
+            margin-left: 0px;
+        }
+
+  }
+

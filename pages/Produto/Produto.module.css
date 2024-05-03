@@ -1,0 +1,100 @@
+.produtos {
+    color: #ff9100;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.opcoes {
+    color: #000;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.opcoes span {
+    padding: 10px;
+}
+
+.opcoes span:hover {
+    color: #ff9100;
+}
+
+.ativo {
+    color: #ff9100;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.active {
+    color: #ff9100;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.filter {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.imagem {
+  
+    margin: auto;
+    height: 236px;
+}
+
+.title {
+    color: #212529;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.price {
+    font-weight: bold;
+    color: #000;
+    font-size: 18px;
+}
+
+.orangeBtn {
+    background: var(--laranja-bebe);
+    color: var(--branco);
+    width: 185px;
+    font-weight: bold;
+    transition: all ease 0.2s;
+    border-radius: 14px;
+    text-align: center;
+    border: transparent;
+    text-transform: uppercase;
+}
+
+.orangeBtn:hover {
+    background: var(--laranja-claro);
+    transition: all ease 0.2s;
+    color: var(--branco);
+}
+
+.containerProducts {
+    background-color: white;
+    padding-top: 25px;
+}
+
+@media (max-width: 375px) {
+    .produtos {
+        color: #ff9100;
+        font-size: 20px;
+        font-weight: bold;
+        display: none;
+    }
+
+    .opcoes span {
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    .opcoes {
+        color: #000;
+        text-transform: uppercase;
+        cursor: pointer;
+        margin: 0;
+    }
+}

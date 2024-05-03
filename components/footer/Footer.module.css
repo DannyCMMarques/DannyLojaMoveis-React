@@ -1,0 +1,43 @@
+footer {
+    width: 100%;
+    height: 180px;
+    background-color:var(--azul-bebe);
+}
+
+.titulo {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.subtitulo {
+    color: white;
+    font-size: 16px;
+}
+
+.divs {
+    width: 310px;
+}
+
+.icones {
+    color: white;
+    font-size: 30px;
+    margin-left: 8px;
+    margin-right: 12px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: end;
+}
+
+.direitos {
+
+    color: white;
+    margin-top: 50px;
+    font-size: 16px;
+    text-align: end;
+}
+
+.icones:hover {
+    color: var(--laranja-bebe);
+}

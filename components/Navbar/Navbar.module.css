@@ -1,0 +1,81 @@
+.menu{
+    background-color: var(--azul-bebe);
+    margin:0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display:flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    justify-content:end;
+}
+
+.li  {
+    color: var(--branco);
+    font-size: 16px;
+    text-transform: uppercase;
+    display:flex;
+    justify-content: end;
+    
+}
+.li:hover{
+color:rgb(255, 123, 0);
+}
+
+.brandW{
+    color:white;
+    font-weight: bold;
+    font-size:30px;
+}
+.d{
+    color:rgb(255, 123, 0);
+    font-weight: bold;
+    font-size:32px;
+}
+.d:hover{
+    color:rgb(255, 123, 0);
+
+}
+.btnLaranja{
+    
+    background:;
+    color: #FFF;
+    width: 118px;
+    font-weight: bold;
+    transition: all ease 0.2s;
+    border-radius: 6px;
+    text-align: center;
+    border: transparent;
+    text-transform: uppercase;
+    display:flex;
+    justify-content: center;
+    margin-top:-04px;
+}
+
+.btnLaranja:hover{
+    background: var(--laranja-claro);
+    transition: all ease 0.2s;
+    color:#fff;
+}
+.position{
+    display: flex !important;
+    justify-content: end !important ;
+}
+
+.ativos {
+    color: #ff9100 !important;
+    font-weight: bold;
+    font-size: 17px;
+}
+@media (max-width: 1080px) {
+       
+}
+
+@media (max-width: 720px) {
+
+}
+@media (max-width: 375px) {
+    
+}

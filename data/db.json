@@ -1,0 +1,220 @@
+{
+  "produtim": [
+    {
+      "id": "1",
+      "destaque": true,
+      "categoria": "mesa",
+      "nome": "Mesa Chanel",
+      "descricao": "Desfrute os melhores momentos com sua família",
+      "preco": "R$250,00",
+      "imagem": "https://product-hub-prd.madeiramadeira.com.br/810299/images/810299_1.jpg?width=700&canvas=1:1&bg-color=FFF"
+    },
+    {
+      "id": "2",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "White sofa",
+      "descricao": "Deixe sua casa com conforto e beleza",
+      "preco": "R$350,00",
+      "imagem": "https://m.media-amazon.com/images/I/51OdSTBWbhL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "3",
+      "destaque": true,
+      "categoria": "armario",
+      "nome": "Armario Amantino",
+      "descricao": "Sua cozinha com brilho e a cara da sua família",
+      "preco": "R$800,00",
+      "imagem": "https://m.media-amazon.com/images/I/61TPoVBE+bL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "4",
+      "destaque": false,
+      "categoria": "mesa",
+      "nome": "Mesa Aurora",
+      "descricao": "Transforme sua sala em um oásis de elegância",
+      "preco": "R$320,00",
+      "imagem": "https://m.media-amazon.com/images/I/51aagZmCEWL._AC_UY218_.jpg"
+    },
+    {
+      "id": "5",
+      "destaque": false,
+      "categoria": "armario",
+      "nome": "Armário Zenith",
+      "descricao": "Organize sua vida com estilo e praticidade",
+      "preco": "R$680,00",
+      "imagem": "https://m.media-amazon.com/images/I/61tiuPKvR-L._AC_UY218_.jpg"
+    },
+    {
+      "id": "6",
+      "destaque": true,
+      "categoria": "sofa",
+      "nome": "Sofá Celestial",
+      "descricao": "Afunde neste paraíso de conforto celestial",
+      "preco": "R$1200,00",
+      "imagem": "https://m.media-amazon.com/images/I/51RflSZVAsL._AC_UY218_.jpg"
+    },
+    {
+      "id": "7",
+      "destaque": true,
+      "categoria": "mesa",
+      "nome": "Mesa Fantasia",
+      "descricao": "Encante seus convidados com esta mesa de contos de fadas",
+      "preco": "R$280,00",
+      "imagem": "https://m.media-amazon.com/images/I/71FM+1X7P5L._AC_UY218_.jpg"
+    },
+    {
+      "id": "8",
+      "destaque": false,
+      "categoria": "armario",
+      "nome": "Armário Cintilante",
+      "descricao": "Brilhe com o glamour deste armário deslumbrante",
+      "preco": "R$950,00",
+      "imagem": "https://m.media-amazon.com/images/I/81oKTEw-LNL._AC_UL320_.jpg"
+    },
+    {
+      "id": "9",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "Sofá Serenidade",
+      "descricao": "Relaxe em serenidade com este sofá luxuoso",
+      "preco": "R$1450,00",
+      "imagem": "https://m.media-amazon.com/images/I/41zZfmQcvyL._AC_UL320_.jpg"
+    },
+    {
+      "id": "10",
+      "destaque": true,
+      "categoria": "mesa",
+      "nome": "Mesa Elegância",
+      "descricao": "Adicione um toque de elegância à sua sala de jantar",
+      "preco": "R$380,00",
+      "imagem": "https://m.media-amazon.com/images/I/31bgd90vfSL._AC_UL320_.jpg"
+    },
+    {
+      "id": "11",
+      "destaque": true,
+      "categoria": "armario",
+      "nome": "Armário Magnífico",
+      "descricao": "Uma peça impressionante para organizar seu espaço",
+      "preco": "R$1100,00",
+      "imagem": "https://m.media-amazon.com/images/I/61sz2R-gpiL._AC_UL320_.jpg"
+    },
+    {
+      "id": "12",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "Sofá Aconchego",
+      "descricao": "Aconchegue-se neste sofá macio e luxuoso",
+      "preco": "R$1650,00",
+      "imagem": "https://m.media-amazon.com/images/I/51tPVZp4aPL._AC_UL320_.jpg"
+    },
+    {
+      "id": "13",
+      "destaque": false,
+      "categoria": "mesa",
+      "nome": "Mesa Encantada",
+      "descricao": "Encante-se com a beleza e a funcionalidade desta mesa",
+      "preco": "R$420,00",
+      "imagem": "https://m.media-amazon.com/images/I/71c-30Nh8HL._AC_UL320_.jpg"
+    },
+    {
+      "id": "14",
+      "destaque": false,
+      "categoria": "armario",
+      "nome": "Armário Clássico",
+      "descricao": "Um clássico atemporal para complementar sua decoração",
+      "preco": "R$890,00",
+      "imagem": "https://m.media-amazon.com/images/I/713lKjBC8UL._AC_UL320_.jpg"
+    },
+    {
+      "id": "15",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "Sofá Luxúria",
+      "descricao": "Experimente o luxo absoluto neste sofá de alta qualidade",
+      "preco": "R$1980,00",
+      "imagem": "https://m.media-amazon.com/images/I/610I8gC5iIL._AC_UL320_.jpg"
+    },
+    {
+      "id": "16",
+      "destaque": true,
+      "categoria": "mesa",
+      "nome": "Mesa Iluminada",
+      "descricao": "Ilumine sua sala de estar com esta mesa sofisticada",
+      "preco": "R$460,00",
+      "imagem": "https://m.media-amazon.com/images/I/71gUuqr8L7L._AC_UL320_.jpg"
+    },
+    {
+      "id": "17",
+      "destaque": false,
+      "categoria": "armario",
+      "nome": "Armário Vintage",
+      "descricao": "Um toque de nostalgia para sua casa moderna",
+      "preco": "R$780,00",
+      "imagem": "https://m.media-amazon.com/images/I/51DrSESxAeL._AC_UL320_.jpg"
+    },
+    {
+      "id": "18",
+      "destaque": true,
+      "categoria": "sofa",
+      "nome": "Sofá Sonho",
+      "descricao": "Transforme seus sonhos em realidade com este sofá confortável",
+      "preco": "R$2250,00",
+      "imagem": "https://m.media-amazon.com/images/I/61KGV6yVMhL._AC_UL320_.jpg"
+    },
+    {
+      "id": "19",
+      "destaque": false,
+      "categoria": "mesa",
+      "nome": "Mesa Harmonia",
+      "descricao": "Crie uma atmosfera harmoniosa em sua sala de jantar",
+      "preco": "R$500,00",
+      "imagem": "https://m.media-amazon.com/images/I/51aV8r3UQTL._AC_UL320_.jpg"
+    },
+    {
+      "id": "20",
+      "destaque": false,
+      "categoria": "armario",
+      "nome": "Armário Prático",
+      "descricao": "A solução perfeita para o armazenamento em sua casa",
+      "preco": "R$690,00",
+      "imagem": "https://m.media-amazon.com/images/I/41H6I5auoiL._AC_UY218_.jpg"
+    },
+    {
+      "id": "21",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "Sofá Requinte",
+      "descricao": "Adicione um toque de requinte à sua sala de estar",
+      "preco": "R$2750,00",
+      "imagem": "https://m.media-amazon.com/images/I/41nNBkGehhL._AC_UY218_.jpg"
+    },
+    {
+      "id": "22",
+      "destaque": true,
+      "categoria": "mesa",
+      "nome": "Mesa Serenata",
+      "descricao": "Encante seus convidados com esta mesa cheia de estilo",
+      "preco": "R$540,00",
+      "imagem": "https://m.media-amazon.com/images/I/71ffhLNyfpL._AC_UY218_.jpg"
+    },
+    {
+      "id": "23",
+      "destaque": true,
+      "categoria": "armario",
+      "nome": "Armário Minimalista",
+      "descricao": "Simplicidade elegante para o seu espaço de vida",
+      "preco": "R$620,00",
+      "imagem": "https://m.media-amazon.com/images/I/61BqCJIulsL._AC_UY218_.jpg"
+    },
+    {
+      "id": "24",
+      "destaque": false,
+      "categoria": "sofa",
+      "nome": "Sofá Conforto",
+      "descricao": "Experimente o máximo conforto com este sofá aconchegante",
+      "preco": "R$3100,00",
+      "imagem": "https://m.media-amazon.com/images/I/61HE0TqbCkL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    }
+  ]
+}

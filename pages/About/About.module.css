@@ -1,0 +1,147 @@
+.titulo {
+    margin-top: -20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-weight: bold;
+    font-size: 47px;
+}
+
+.visibilidade {
+    display: block;
+}
+
+.containerCentral {
+    background-color: #f8f9fa;
+    height: 600px;
+}
+
+
+.dados div {
+    width: 250px;
+    height: 119px;
+    padding: 9px;
+    border: 2px solid #efd133;
+    border-radius: 10px;
+}
+
+
+.sobreNos {
+    margin-left: 50px;
+    color: var(--laranja-bebe);
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+i {
+    color: var(--laranja-bebe);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+h5 {
+    color: rgb(80 126 151);
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.dados h3 {
+    color: var(--laranja-bebe);
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.subtitulo {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    margin: 0;
+}
+
+.div1 {
+    display: block;
+    justify-content: center;
+    margin: auto;
+    width: 470px;
+    padding: 20px;
+}
+
+.cardItens {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.inicial {
+    margin-top: 15px;
+    margin: auto;
+    border-color: rgb(161, 29, 29) 1px solid;
+}
+
+
+.inicial h1 {
+    margin-top: -20px;
+    color: #212529;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.subtitulo2 {
+    color: rgb(80 126 151);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.imagem {
+    background-image: url(/src/assets/iamgens/loja.jpg);
+    background-size: cover;
+}
+
+.imagem2 {
+    background-image: url(./../../assets/iamgens/loja2.jpg);
+    background-size: cover;
+}
+
+.imagem,
+.imagem2 {
+    margin-left: 10px;
+    width: 315px;
+    height: 210px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+
+@media (max-width: 1080px) {}
+
+@media (max-width: 720px) {}
+
+@media (max-width: 380px) {
+    .visibilidade {
+        display: none;
+    }
+
+    .div1 {
+        display: block;
+        justify-content: center;
+        margin: auto;
+        width: 370px;
+        padding: 20px;
+    }
+
+    .sobreNos {
+        margin-left: 0px;
+        color: var(--laranja-bebe);
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin-top: 20px;
+    }
+}
