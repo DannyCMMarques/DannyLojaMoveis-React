@@ -1,4 +1,3 @@
-![Foto capa desktop](https://github.com/DannyCMMarques/DannyLojaMoveis-React/assets/147952313/b6e2ea23-1dab-4b93-b4ab-dd8b2267a451)
 
 # 💻 Projeto React - ***Danny's Móveis***💻
 
@@ -10,7 +9,8 @@ O principal objetivo deste projeto é praticar habilidades em React, compreenden
 
 ## Projeto 🛠️
 
-![foto versao mobile (1)](https://github.com/DannyCMMarques/DannyLojaMoveis-React/assets/147952313/77b6e254-7b0b-476b-a35f-d9768c034883)
+![foto versao mobile (3)](https://github.com/DannyCMMarques/DannyLojaMoveis-React/assets/147952313/57d82ab6-9bf2-413c-87dc-bcd1a7c9a0c6)
+
 
 
 ### Versão Mobile
