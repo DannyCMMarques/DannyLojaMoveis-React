@@ -20,22 +20,23 @@ const CardItem = ({
         style={{
           width: "356px",
           //height: "509px",
-          backgroundColor:
-            categoria === "sofa"
-              ? "#FFEFD5"
-              : categoria === "mesa"
-              ? "#8abdd8"
-              : categoria === "armario"
-              ? "#E6E6FA"
-              : "#DDA0DD",
+          // backgroundColor:
+          //   categoria === "sofa"
+          //     ? "#FFEFD5"
+          //     : categoria === "mesa"
+          //     ? "#8abdd8"
+          //     : categoria === "armario"
+          //     ? "#E6E6FA"
+          //     : "#DDA0DD",
         }}
       >
         <Card.Img variant="top" className={`${styles.imagem} `} src={imagem} />
         <Card.Body>
           <Card.Title className={styles.title}>{nome}</Card.Title>
+          <small>Descrição: </small>
           <Card.Text className={styles.descricao}>{descricao}</Card.Text>
           <Card.Text className={styles.price}>{preco}</Card.Text>
-          <CustomButton categoria="orange" textButton={textButton}/>
+          <CustomButton size="big" categoria="orange" textButton={textButton} />
         </Card.Body>
       </Card>
     </>

@@ -14,7 +14,7 @@
       "destaque": false,
       "categoria": "sofa",
       "nome": "White sofa",
-      "descricao": "Deixe sua casa com conforto e beleza",
+      "descricao": "Deixe sua casa com conforto e beleza, confira já!",
       "preco": "R$350,00",
       "imagem": "https://m.media-amazon.com/images/I/51OdSTBWbhL.__AC_SY300_SX300_QL70_ML2_.jpg"
     },
@@ -41,7 +41,7 @@
       "destaque": false,
       "categoria": "armario",
       "nome": "Armário Zenith",
-      "descricao": "Organize sua vida com estilo e praticidade",
+      "descricao": "Organize sua vida com estilo e praticidade, venha conferi!",
       "preco": "R$680,00",
       "imagem": "https://m.media-amazon.com/images/I/61tiuPKvR-L._AC_UY218_.jpg"
     },
@@ -50,7 +50,7 @@
       "destaque": true,
       "categoria": "sofa",
       "nome": "Sofá Celestial",
-      "descricao": "Afunde neste paraíso de conforto celestial",
+      "descricao": "Afunde neste paraíso de conforto celestial no conforto de sua casa!",
       "preco": "R$1200,00",
       "imagem": "https://m.media-amazon.com/images/I/51RflSZVAsL._AC_UY218_.jpg"
     },
@@ -104,7 +104,7 @@
       "destaque": false,
       "categoria": "sofa",
       "nome": "Sofá Aconchego",
-      "descricao": "Aconchegue-se neste sofá macio e luxuoso",
+      "descricao": "Aconchegue-se neste sofá macio e luxuoso, melhor conforto e custo beneficio",
       "preco": "R$1650,00",
       "imagem": "https://m.media-amazon.com/images/I/51tPVZp4aPL._AC_UL320_.jpg"
     },
