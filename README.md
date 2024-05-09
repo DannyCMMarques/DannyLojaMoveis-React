@@ -9,7 +9,7 @@ O principal objetivo deste projeto é praticar habilidades em React, compreenden
 
 ## Projeto 🛠️
 
-![foto versao mobile (3)](https://github.com/DannyCMMarques/DannyLojaMoveis-React/assets/147952313/57d82ab6-9bf2-413c-87dc-bcd1a7c9a0c6)
+![foto versao mobile](https://github.com/DannyCMMarques/DannyLojaMoveis-React/assets/147952313/57d82ab6-9bf2-413c-87dc-bcd1a7c9a0c6)
 
 
 
@@ -23,7 +23,7 @@ O projeto foi desenvolvido com foco na experiência do usuário em dispositivos 
 
   ### Demonstração 📱
 * Acesse esse link para visualizar o site:
-🌠 https://dannycmmarques.github.io/dannysmoveis/ 🌠
+🌠 dannysmoveisreact.netlify.app/ 🌠
 
 ## Feedbacks e Aprendizados
 Sinta-se à vontade para compartilhar feedbacks, sugestões de melhorias e trocar aprendizados. O processo de desenvolvimento é contínuo, e estou sempre em busca de aprimoramento.
