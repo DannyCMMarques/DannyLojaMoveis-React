@@ -7,7 +7,6 @@
     background-position-y: center;
     font-family: sans-serif;
     color: #fff;
-
 }
 
 .slogan2 {
@@ -17,11 +16,9 @@
     margin: 0;
     line-height: 130%;
     text-transform: uppercase;
-    width: 575px;
+    width: 90%;
     animation: myAnim 0.5s ease 0s 1 normal forwards;
-
 }
-
 
 .slogan {
     display: flex;
@@ -57,9 +54,8 @@
     height: 50px;
 }
 
-
 .orangeButton:hover {
-    background:var(--laranja-claro);
+    background: var(--laranja-claro);
     transition: all ease 0.2s;
     color: var(--branco);
     border: transparent;
@@ -69,26 +65,23 @@
     margin-left: 80px;
 }
 
-    @media (max-width: 1080px) {
-       
-    }
+@media (max-width: 1080px) {
+}
 
-  @media (max-width: 720px) {
-   
-  }
-  @media (max-width: 375px) {
+@media (max-width: 720px) {
+}
+@media (max-width: 375px) {
     .painel {
-        height:113vh;
+        height: 113vh;
         width: 100%;
-    background-size: cover;
-    background-image: url(/src/assets/iamgens/capa.jpg);
-    background-repeat: no-repeat;
-    background-position: -170px -125px;
-    font-family: sans-serif;
-    color: #fff;
-    padding:0;
-    margin:0;
-    
+        background-size: cover;
+        background-image: url(/src/assets/iamgens/capa.jpg);
+        background-repeat: no-repeat;
+        background-position: -170px -125px;
+        font-family: sans-serif;
+        color: #fff;
+        padding: 0;
+        margin: 0;
     }
     .slogan2 {
         display: flex;
@@ -99,12 +92,9 @@
         text-transform: uppercase;
         animation: myAnim 0.5s ease 0s 1 normal forwards;
         width: 363px;
-    
     }
 
-        .containerInformacao {
-            margin-left: 0px;
-        }
-
-  }
-
+    .containerInformacao {
+        margin-left: 0px;
+    }
+}
