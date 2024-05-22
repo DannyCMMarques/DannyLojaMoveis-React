@@ -1,11 +1,11 @@
-import './Loading.module.css'
+import "./Loading.module.css";
 
 const Loading = () => {
-    return (
-      <div className="loading-overlay">
-        <div className="loading-spinner"></div>
-      </div>
-    );
-  };
+  return (
+    <div className="loading-overlay">
+      <div className="loading-spinner"></div>
+    </div>
+  );
+};
 
-export default Loading
+export default Loading;

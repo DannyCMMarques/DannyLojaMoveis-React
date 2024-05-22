@@ -26,7 +26,7 @@ const Produto = () => {
     return categoriaSelecionada;
   };
 
-  // usei para iniciar o filteredProducts para Todos
+ 
   useEffect(() => {
     filteredProducts("todos");
     setCategoriaAtiva("todos");

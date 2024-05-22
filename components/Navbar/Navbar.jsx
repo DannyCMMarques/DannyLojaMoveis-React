@@ -25,26 +25,24 @@ const Navegacao = () => {
   }, [location.pathname]);
 
   const handleSelect = () => {
-    setExpanded(false); // Fechar o menu responsivo ao selecionar um item
+    setExpanded(false);
   };
 
   return (
-    
     <Navbar
       collapseOnSelect
       expanded={expanded}
       onToggle={() => setExpanded(!expanded)}
       expand="lg"
       className={styles.menu}
-     
     >
       <Container>
         <Navbar.Brand as={Link} to="/" className={styles.d}>
           D<span className={`${styles.brandW}`}>anny's Movéis</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav" >
-          <Nav className="mr-auto ml-auto " style={{marginLeft:"auto"}}>
+        <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="mr-auto ml-auto " style={{ marginLeft: "auto" }}>
             {HelperNav.map((HelperNavItem) => (
               <Nav.Link
                 key={HelperNavItem.id}

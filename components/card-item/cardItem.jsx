@@ -19,15 +19,6 @@ const CardItem = ({
         className={`me-4 mt-3 mb-2 ${styles.medidas}`}
         style={{
           width: "356px",
-          //height: "509px",
-          // backgroundColor:
-          //   categoria === "sofa"
-          //     ? "#FFEFD5"
-          //     : categoria === "mesa"
-          //     ? "#8abdd8"
-          //     : categoria === "armario"
-          //     ? "#E6E6FA"
-          //     : "#DDA0DD",
         }}
       >
         <Card.Img variant="top" className={`${styles.imagem} `} src={imagem} />

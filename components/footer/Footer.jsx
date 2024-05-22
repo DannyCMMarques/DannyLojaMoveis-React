@@ -45,7 +45,7 @@ const Footer = () => {
                 <TelephoneFill />
               </div>
             </div>
-            <div className={`d-flex justify-content-end ${styles.direitos}`} >
+            <div className={`d-flex justify-content-end ${styles.direitos}`}>
               <p> Todos os direitos reservados ®Danny's Marques</p>
             </div>
           </Col>

@@ -3,31 +3,38 @@
     font-size: 30px;
     font-weight: bold;
 }
+
 .produtos:hover {
     color: #ff9100;
     font-size: 30px;
     font-weight: bold;
 }
+
 .li {
     color: #000;
 }
+
 .descricao {
     margin-left: auto;
 }
+
 nav {
     width: 1100px;
     display: flex;
     justify-content: center;
     margin: auto;
 }
+
 .li:hover {
     color: #ff9100;
 }
+
 .li:focus {
     color: #ff9100;
     font-weight: bold;
     font-size: 17px;
 }
+
 .active {
     color: #ff9100;
     font-weight: bold;
@@ -78,6 +85,7 @@ nav {
         display: flex;
         justify-content: center;
     }
+
     .price {
         font-weight: bold;
         color: #000;
@@ -85,6 +93,7 @@ nav {
         display: flex;
         justify-content: center;
     }
+
     .descricao {
         margin-left: 0px;
     }
